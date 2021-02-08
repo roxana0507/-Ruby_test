@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/backgroud-image.jpg");
+    background-size:cover;
+}
+ul {
+    list-style-type: none;
+}
+img{
+    width: 500px;
+} 
+  
